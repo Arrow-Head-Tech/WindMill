@@ -1,10 +1,13 @@
-![licence-BSD3](https://img.shields.io/github/license/Lukasavicus/WindMill) 
-![last-commit](https://img.shields.io/github/last-commit/Lukasavicus/WindMill)
+![Status](https://img.shields.io/badge/status-delivered-green?style=flat-square)
+![licence-BSD3](https://img.shields.io/github/license/Arrow-Head-Tech/WindMill) 
+![last-commit](https://img.shields.io/github/last-commit/Arrow-Head-Tech/WindMill)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
 
 <p align="center"><img src="readme_files/windmill_black.png"/></p>
 
-# WindMill (beta)
+# WindMill
+
+**Status:** Delivered — ferramenta aberta para controle de execução de jobs em Python (Flask, APScheduler, MongoDB). Projeto da organização Arrow-Head-Tech.
 
 Controle de Jobs Eficiente
 

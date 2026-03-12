@@ -14,3 +14,7 @@ build/
 outros/
 
 projectVersion.json
+
+.venv/
+.venv_test/
+venv/
